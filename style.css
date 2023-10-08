@@ -1,0 +1,107 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#navbar{
+    border: 1px solid black;
+    background-color: #2D2C31;
+    height: 5vh;
+    background-size: 100%;
+    padding: 5px;
+}
+#navbar div{
+    display: inline;
+}
+#home a{
+    background-color: #BC8BB2;
+    color: #412134;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 1vh;
+    margin-right: 2vh;
+    float: right;
+    opacity: 0.8;
+}
+#gallery a{
+    background-color: #BC8BB2;
+    color: #412134;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 1vh;
+    margin-right: 2vh;
+    float: right;
+    opacity: 0.8;
+}
+#logo{
+    margin: left;
+    float: left;
+}
+#logo img{
+    border: 2px solid blanchedalmond;
+    width: 30px;
+    border-radius: 360px;
+}
+#banner{
+    padding: 60px;
+    border: 1px;
+    background-image: url(jobi\ \(2\).jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-size: cover;
+    height: 90vh;
+    }
+#banner h1{
+    color: #412134;
+    text-shadow: 1px 1px #BEC2CE;
+}
+#banner span{
+    color: #7F3B75;
+    text-shadow: 1px 1px #BEC2CE;
+}
+#banner p{
+    margin-bottom: 25px;
+    color:#BC8BB2;
+    text-shadow: 1px 1px #fcf4ff;
+}
+#banner .gallery a{
+    
+    border:#242823;
+    border-radius: 8px;
+    color: #2D2C31;
+    background-color: #909c8e;
+    padding: 10px;
+    text-decoration: none;
+    margin: right;
+    align-items: right;
+    opacity: 0.9;
+}
+#footer{
+    color: antiquewhite;
+    border: 1px solid black;
+    background-color: #2D2C31;
+    height: 5vh;
+    background-size: 100%;
+    padding: 5px;
+}
+#socials{
+    float: right;
+    margin: right;
+}
+#pics{
+    margin-left: 10px;
+    margin: 5px;
+    padding: 30px;
+    background-color: #d6c6ea;
+}
+#a img{
+    margin: 10px;
+    padding: 10px;
+    width: 350px;
+}
+#b img{
+    margin: 10px;
+    padding: 10px;
+    width: 350px;
+}
+
+
