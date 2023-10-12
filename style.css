@@ -1,3 +1,4 @@
+
 *{
     padding: 0px;
     margin: 0px;
@@ -53,6 +54,8 @@
 #banner h1{
     color: #412134;
     text-shadow: 1px 1px #BEC2CE;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
 #banner span{
     color: #7F3B75;
@@ -62,6 +65,7 @@
     margin-bottom: 25px;
     color:#BC8BB2;
     text-shadow: 1px 1px #fcf4ff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #banner .gallery a{
     
